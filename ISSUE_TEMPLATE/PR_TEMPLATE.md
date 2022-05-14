@@ -1,5 +1,5 @@
-# New Features
+## Features
 
-# Changes
+## Changes
 
-# Fixes
+## Fixes
